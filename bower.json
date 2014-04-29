@@ -1,0 +1,15 @@
+{
+  "name": "modernizr",
+  "version": "2.7.2",
+  "main": "modernizr.js",
+  "ignore": [
+    ".editorconfig",
+    ".gitignore",
+    "grunt.js",
+    "readme.md",
+    "feature-detects",
+    "media",
+    "test",
+    ".travis.yml"
+  ]
+}
